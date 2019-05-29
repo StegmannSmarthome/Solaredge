@@ -1,0 +1,15 @@
+{
+    "id": "{DD6CA2E9-EA38-7FA4-D796-0C57D948CB26}",
+    "name": "Solaredge",
+    "type": 3,
+    "vendor": "Stegmann Smarthome",
+    "aliases":
+    [
+        "Name1UnterstütztesGerät",
+        "Name2UnterstütztesGerät"
+    ],  
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "ABC"
+}
